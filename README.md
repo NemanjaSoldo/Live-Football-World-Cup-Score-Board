@@ -3,7 +3,8 @@
 This application runs in a console where user can select options
 
 Prerequisites:
-1. Installed Node
+1. Installed Node (v22.7)
+2. npm (10.8)
 
 Process:
 1. Run (in the project root directory):
